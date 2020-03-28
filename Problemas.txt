@@ -1,5 +1,1 @@
-1 Explotar datos del gps integrado en el puma-katari para evaluar al conductor en sus diferentes tramos
-2 control de salida de buses optimizando 
-3 control de trafico, grado de ocupacion, re ajuste de vias 
-4 control de pasajeros por medio de QR para coronavirus
-5 Sistema de informacion de grado de ocupacion, plataforma de usuario. plataforma de chofer (datos de informacion del usuario)
+
