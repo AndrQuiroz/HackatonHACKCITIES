@@ -1,94 +1,43 @@
 # HackatonHACKCITIES
 Hackaton realizada el 28/03/20 con el objetivo de brindar soluciones innovadoras y su aplicacion en el municipio de La Paz
-## Titulo del Proyecto
-# Titulo del Proyecto
-Una pequeña descripción sobre su proyecto. 
-Responder lo siguiente: ¿Que hace el proyecto? ¿De que se trata? ¿Que componentes tiene?
-Responder lo siguiente: ¿Qué hace el proyecto? ¿De que se trata? ¿Qué componentes tiene?
-
-(En el caso de que el proyecto este compuesto por varios repositorios)
+## MOVILIDAD URBANA-PUNTOS DE CONTROL
+El proyecto desarrollado ayudara mejorar la obtencion de datos con relacion a la velocidad de los buses, la informacion de 
+los conductores, el cumplimiento de las rutas y tiempos de recorrido. Esto se lograra gracias a la instalacion de dispositivos RF, que deberan ser instalados en cada parada y en cada bus. 
 # Titulo del Repositorio
 Una pequeña descripción sobre su proyecto. 
 (Agregar esta sección en el caso de que el proyecto este compuesto por varios repositorios)
-## Titulo del Repositorio
-Una pequeña descripción sobre el repositorio. 
-Por ejemplo: Frontend del proyecto HackCities desarrollado con Angular. 
-
 ## Motivación
-Una breve descripción de la motivación detrás del proyecto.
-Responder lo siguiente: ¿por qué existe el proyecto? ¿Que problema soluciona el proyecto?
-Responder lo siguiente: ¿por qué existe el proyecto? ¿Qué problema soluciona el proyecto?
-
+Al observar que el transporte masivo de la ciudad de La Paz es de beneficio para varios ciudadanos, el poder potenciarlo es una forma de mejora continua al servicio y a la vez, una oportunidad para poder convertirnos en una Ciudad Inteligente. Se pudo detectar que no existen datos especificos sobre los tiempos de recorrido, la cantidad de usuarios, el cumplimineto de horarios en cada ruta y el control en sus determinadas rutas. Generar este tipo de datos nos ayudaran (con su resectivo tratamiento) a generar desiciones para poder medir la eficiencia del servicio. 
 ## Capturas de pantalla
+
 Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
 @@ -20,13 +21,14 @@ Ejemplo) - ESP32
 - Atom
+## Tecnologias/Frameworks utilizados
+
 
 ## Funcionalidades mas importantes
-Responder: ¿Cuales son las funcionalidades mas interesantes de tu proyecto?
-Responder: ¿Cuáles son las funcionalidades mas interesantes de tu proyecto?
-
+Generar datos veridicos y personalizados para cada bus en todas las rutas (este sistema se puede ampliar al control de cualquier transporte publico), se podra realizar el control de los trabajadores (hora de salidas y llegadas) y se podran obtener tiempos de recorrido para posteriormente tener tiempos de recorrido y espera. 
 ## Instalación
 Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con tu proyecto. 
 Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
 En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
 
 ## Creditos
-Nombrar a los participantes del equipo. Mencionar alguna libreria que fue util o sirvio de inspiración para prototipar el proyecto. 
-Nombrar a los participantes del equipo. Mencionar alguna libreria que fue útil o sirvió de inspiración para prototipar el proyecto. 
+Cristhian Daniel Alvarez Guzman
+Carlos Franz Lopez Cocarico
+Mariel Maxy Gutierrez Villegas
+Alejandro Andrés Quiroz Nina
+Mencionar alguna libreria que fue útil o sirvió de inspiración para prototipar el proyecto. 
 
 ## Licencia
-
-@EdwinTSalcedo EdwinTSalcedo revised this gist 13 hours ago. 1 changed file with 4 additions and 0 deletions.
- 4  README.md 
-@@ -2,6 +2,10 @@
-Una pequeña descripción sobre su proyecto. 
-Responder lo siguiente: ¿Que hace el proyecto? ¿De que se trata? ¿Que componentes tiene?
-
-(En el caso de que el proyecto este compuesto por varios repositorios)
-# Titulo del Repositorio
-Una pequeña descripción sobre su proyecto. 
-
-## Motivación
-Una breve descripción de la motivación detrás del proyecto.
-Responder lo siguiente: ¿por qué existe el proyecto? ¿Que problema soluciona el proyecto?
-@EdwinTSalcedo EdwinTSalcedo revised this gist 13 hours ago. 1 changed file with 8 additions and 8 deletions.
- 16  README.md 
-@@ -1,30 +1,30 @@
-Titulo del Proyecto
-## Titulo del Proyecto
-Una pequeña descripción sobre su proyecto. 
-Responder lo siguiente: ¿Que hace el proyecto? ¿De que se trata? ¿Que componentes tiene?
-
-Motivación
-## Motivación
-Una breve descripción de la motivación detrás del proyecto.
-Responder lo siguiente: ¿por qué existe el proyecto? ¿Que problema soluciona el proyecto?
-
-Capturas de pantalla
-## Capturas de pantalla
-Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
-
-Tecnologías/Frameworks utilizados
-## Tecnologías/Frameworks utilizados
-Ejemplo) - ESP32
-- Arduino 
-- Amazon IoT 
-- Atom
-
-Funcionalidades mas importantes
-## Funcionalidades mas importantes
-Responder: ¿Cuales son las funcionalidades mas interesantes de tu proyecto?
-
-Instalación
-## Instalación
-Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con tu proyecto. 
-
-Creditos
-## Creditos
-Nombrar a los participantes del equipo. Mencionar alguna libreria que fue util o sirvio de inspiración para prototipar el proyecto. 
-
-Licencia
-## Licencia
-
 The MIT License
+
+Copyright (c) 2020 [MOVIMAKERS]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
