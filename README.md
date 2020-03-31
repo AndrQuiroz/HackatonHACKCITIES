@@ -10,12 +10,12 @@ Una pequeña descripción sobre su proyecto.
 Al observar que el transporte masivo de la ciudad de La Paz es de beneficio para varios ciudadanos, el poder potenciarlo es una forma de mejora continua al servicio y a la vez, una oportunidad para poder convertirnos en una Ciudad Inteligente. Se pudo detectar que no existen datos especificos sobre los tiempos de recorrido, la cantidad de usuarios, el cumplimineto de horarios en cada ruta y el control en sus determinadas rutas. Generar este tipo de datos nos ayudaran (con su resectivo tratamiento) a generar desiciones para poder medir la eficiencia del servicio. 
 ## Capturas de pantalla
 
-Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
-@@ -20,13 +21,14 @@ Ejemplo) - ESP32
-- Atom
+
 ## Tecnologias/Frameworks utilizados
-
-
+Android Studio 
+Python
+Colab
+Java
 ## Funcionalidades mas importantes
 Generar datos veridicos y personalizados para cada bus en todas las rutas (este sistema se puede ampliar al control de cualquier transporte publico), se podra realizar el control de los trabajadores (hora de salidas y llegadas) y se podran obtener tiempos de recorrido para posteriormente tener tiempos de recorrido y espera. 
 ## Instalación
@@ -32,8 +32,7 @@ Carlos Franz Lopez Cocarico
 
 Alejandro Andrés Quiroz Nina
 
-Mencionar alguna libreria que fue útil o sirvió de inspiración para prototipar el proyecto. 
-
+Gpx Animator autor Martin Ždila
 ## Licencia
 The MIT License
 
