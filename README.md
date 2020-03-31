@@ -33,9 +33,18 @@ Monitorear usuarios por medio del posicionamiento GPS y hallar coincidencias.
 
 
 3.1. Algoritmo de deteccion de coincidencias 
+dependencias 
+gpxpy
+pandas
+time
 https://colab.research.google.com/drive/1AKpF24eveNklUsnTV5XskhvC7GENqvl_
 o en su defecto buscar en PumaTrack/Coronatrack y ejecutar en jupyter notebook
  En el caso de procesamiento de multiples archivos se creo un algoritmo que evalua coincidencias de menos 15 metros entre coordenadas, posterior a la confirmacion podemos realizar el seguimiento por medio de GPX animator para ver las zonas donde se movilizaron las personas contagiadas.
+ 
+ 4.En caso de querer instalar el programa de control de la maqueta compilar en el IDE de arduino 
+ dependencias
+ I2C_liquid_crystal.h
+ wire.h
 ## Creditos
 Cristhian Daniel Alvarez Guzman
 
