@@ -3,9 +3,6 @@ Hackaton realizada el 28/03/20 con el objetivo de brindar soluciones innovadoras
 ## MOVILIDAD URBANA-PUNTOS DE CONTROL
 El proyecto desarrollado ayudara mejorar la obtencion de datos con relacion a la velocidad de los buses, la informacion de 
 los conductores, el cumplimiento de las rutas y tiempos de recorrido. Esto se lograra gracias a la instalacion de dispositivos RF, que deberan ser instalados en cada parada y en cada bus. 
-# Titulo del Repositorio
-Una pequeña descripción sobre su proyecto. 
-(Agregar esta sección en el caso de que el proyecto este compuesto por varios repositorios)
 ## Motivación
 Al observar que el transporte masivo de la ciudad de La Paz es de beneficio para varios ciudadanos, el poder potenciarlo es una forma de mejora continua al servicio y a la vez, una oportunidad para poder convertirnos en una Ciudad Inteligente. Se pudo detectar que no existen datos especificos sobre los tiempos de recorrido, la cantidad de usuarios, el cumplimineto de horarios en cada ruta y el control en sus determinadas rutas. Generar este tipo de datos nos ayudaran (con su resectivo tratamiento) a generar desiciones para poder medir la eficiencia del servicio. 
 ## Capturas de pantalla
@@ -18,11 +15,27 @@ Colab
 Java
 ## Funcionalidades mas importantes
 Generar datos veridicos y personalizados para cada bus en todas las rutas (este sistema se puede ampliar al control de cualquier transporte publico), se podra realizar el control de los trabajadores (hora de salidas y llegadas) y se podran obtener tiempos de recorrido para posteriormente tener tiempos de recorrido y espera. 
+Monitorear usuarios por medio del posicionamiento GPS y hallar coincidencias.
 ## Instalación
-Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con tu proyecto. 
-Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
-En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
+1. Descargar el proyecto /App/Readme desde drive
+  Importar en Android Studio 1,8
+  Actualizar el Graddle
+  Compilar la aplicacion
+  Generar ruta
 
+2. Exportar los datos .GPX
+  ruta por defecto /0/GPX-Recorder/*.GPX
+  Extraer dos trayectos
+
+3. Clonar el repositorio https://github.com/zdila/gpx-animator.git
+  Ejecutar instrucciones 
+  Renderizar video y hallar coincidencias
+
+
+3.1. Algoritmo de deteccion de coincidencias 
+https://colab.research.google.com/drive/1AKpF24eveNklUsnTV5XskhvC7GENqvl_
+o en su defecto buscar en PumaTrack/Coronatrack y ejecutar en jupyter notebook
+ En el caso de procesamiento de multiples archivos se creo un algoritmo que evalua coincidencias de menos 15 metros entre coordenadas, posterior a la confirmacion podemos realizar el seguimiento por medio de GPX animator para ver las zonas donde se movilizaron las personas contagiadas.
 ## Creditos
 Cristhian Daniel Alvarez Guzman
 
