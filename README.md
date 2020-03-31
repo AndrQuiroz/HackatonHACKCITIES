@@ -9,7 +9,7 @@ Una pequeña descripción sobre su proyecto.
 ## Motivación
 Al observar que el transporte masivo de la ciudad de La Paz es de beneficio para varios ciudadanos, el poder potenciarlo es una forma de mejora continua al servicio y a la vez, una oportunidad para poder convertirnos en una Ciudad Inteligente. Se pudo detectar que no existen datos especificos sobre los tiempos de recorrido, la cantidad de usuarios, el cumplimineto de horarios en cada ruta y el control en sus determinadas rutas. Generar este tipo de datos nos ayudaran (con su resectivo tratamiento) a generar desiciones para poder medir la eficiencia del servicio. 
 ## Capturas de pantalla
-https://raw.githubusercontent.com/theramses/HackatonHACKCITIES/blob/master/Captura%20de%20pantalla%20de%202020-03-31%2016-21-29.png
+https://github.com/theramses/HackatonHACKCITIES/blob/master/Captura%20de%20pantalla%20de%202020-03-31%2016-21-29.png
 
 ## Tecnologias/Frameworks utilizados
 Android Studio 
