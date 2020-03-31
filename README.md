@@ -25,9 +25,13 @@ En el caso de tener varios repositorios, realizar la guía correspondiente para 
 
 ## Creditos
 Cristhian Daniel Alvarez Guzman
+
+Mariel Maxy Gutierrez Villega
+
 Carlos Franz Lopez Cocarico
-Mariel Maxy Gutierrez Villegas
+
 Alejandro Andrés Quiroz Nina
+
 Mencionar alguna libreria que fue útil o sirvió de inspiración para prototipar el proyecto. 
 
 ## Licencia
